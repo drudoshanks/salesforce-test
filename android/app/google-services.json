@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "622535769",
+    "project_id": "salesforce-8eb2f",
+    "storage_bucket": "salesforce-8eb2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622535769:android:c3777f8d38aaa62f323d48",
+        "android_client_info": {
+          "package_name": "com.salesforce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622535769-i08v1nf7gu0v0qt5fv4q9pesfm0oj7b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salesforce",
+            "certificate_hash": "19987496a0a27d6747850645a79f4feacebb6085"
+          }
+        },
+        {
+          "client_id": "622535769-btrf45pug3hnk1qb8vfd85aqqfk2opd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkpF06OXUVB94qOpJ2EjPiNEnVteGZ0AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622535769-btrf45pug3hnk1qb8vfd85aqqfk2opd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
